@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html#methods",
+    "href": "index.html#methods",
+    "title": "9041 Assignment 2",
+    "section": "Methods",
+    "text": "Methods\n\nParticipants\nIn this data set there were 63 participants, with varying distributions of education type (Table 1).\n\n\n\n\n\n\nDistribution of Age groups by Relationship Status\n\n\nAge group\ndivorced\nin a relationship\nmarried\nnever in a relationship\nprefer not to say\n\n\n\n\n18-24\n0\n40\n1\n0\n3\n\n\n24-34\n0\n11\n0\n1\n0\n\n\n35-44\n0\n2\n1\n0\n0\n\n\n45-54\n0\n0\n1\n0\n0\n\n\n55-64\n1\n1\n1\n0\n0\n\n\n\n\n\n\n\nMeasures\nIn this Attachment and Social Anxiety data set, the 3 factors refer to the 3 composites included in the Attachment Anxiety Data. Experiences in Close Relationships (Cronbach’s alpha = 0.9). Social Interaction Anxiety Scale (Cronbach’s alpha = 0.94). and Rosenberg Self-Esteem Scale (Cronbach’s alpha = 0.85).\n\n\nData Analysis Strategy\nThe data for variables SA_1, AA_1, SEst_1, were reverse keyed."
+  },
+  {
+    "objectID": "index.html#results",
+    "href": "index.html#results",
+    "title": "9041 Assignment 2",
+    "section": "Results",
+    "text": "Results\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDescriptive Statistics for Attachment and Social Anxiety\n\n\nSubscales\n\nCentral Tendency\n\n\nVariability\n\n\nReliability Values (Chronbach's alpha)\n\n\n\nmean\nmedian\nsd\nrange\nalphas\n\n\n\n\nSA\n2.39\n2.30\n0.70\n3.00\n0.90\n\n\nAA\n3.40\n3.11\n1.62\n5.89\n0.94\n\n\nSEst\n2.23\n2.20\n0.51\n2.20\n0.85\n\n\n\n\n\nIn this AAD data set, the 3 factors refer to the 3 composites included in the Attachment Anxiety Data. Participants had a mean score on Experiences in Close Relationships of 2.39, on Social Interaction Anxiety Scale of 3.4, on Rosenberg Self-Esteem Scale of 2.23.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDescriptive Statistics for Attachment and Social Anxiety in people 18 to 64 in a relationship\n\n\nSubscales\n\nCentral Tendency\n\n\nVariability\n\n\nReliability Values (Chronbach's alpha)\n\n\n\nmean\nmedian\nsd\nrange\nalphas_filtered\n\n\n\n\nSA\n2.34\n2.30\n0.64\n2.85\n0.90\n\n\nAA\n3.46\n3.11\n1.66\n5.89\n0.94\n\n\nSEst\n2.21\n2.20\n0.50\n1.90\n0.85\n\n\n\n\n\nWhen only including participants over age 18 and below age 65 in a relationship, this AAD data set, the 3 factors refer to the 3 composites included in the Attachment Anxiety Data. Participants had a mean score on Experiences in Close Relationships of 2.34, on Social Interaction Anxiety Scale of 3.46, on Rosenberg Self-Esteem Scale of 2.21."
+  },
+  {
+    "objectID": "index.html#discussion",
+    "href": "index.html#discussion",
+    "title": "9041 Assignment 2",
+    "section": "Discussion",
+    "text": "Discussion"
+  }
+]
