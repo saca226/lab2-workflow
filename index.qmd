@@ -293,6 +293,6 @@ In this AAD data set, the 3 factors refer to the 3 composites included in the At
 Participants had a mean score on Experiences in Close Relationships of `{r} final.reptable[1,2]`, on Social Interaction Anxiety Scale of `{r} final.reptable[2,2]`, on Rosenberg Self-Esteem Scale of `{r} final.reptable[3,2]`.
 
 `{r} gttable.3`
-When only including participants over age 18 and below age 65 in a relationship, this AAD data set, the 3 factors refer to the 3 composites included in the Attachment Anxiety Data. Participants had a mean score on Experiences in Close Relationships of `{r} filtered.reptable[1,2]`, on Social Interaction Anxiety Scale of `{r} filtered.reptable[2,2]`, on Rosenberg Self-Esteem Scale of `{r} filtered.reptable[3,2]`. 
+When only including participants over age 18 and below age 65 in a relationship, this AAD data set, the 3 factors refer to the 3 composites included in the Attachment Anxiety Data. Participants had a mean score on Experiences in Close Relationships of `{r} filtered.reptable[1,2]`, on Social Interaction Anxiety Scale of `{r} filtered.reptable[2,2]`, on Rosenberg Self-Esteem Scale of `{r} filtered.reptable[3,2]`.
 
 ## Discussion
